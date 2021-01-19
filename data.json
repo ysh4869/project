@@ -1,0 +1,2276 @@
+{
+    "data": [
+        {
+            "name": "女装",
+            "children": [
+                {
+                    "name": "外套&针织衫",
+                    "children": [
+                        {
+                            "name": "外套",
+                            "children": [
+                                {
+                                    "name": "女款卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "针织衫",
+                            "children": [
+                                {
+                                    "name": "女款针织衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款针织连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "防晒系列",
+                            "children": [
+                                {
+                                    "name": "女款防晒卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款防晒连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "羽绒服",
+                            "children": [
+                                {
+                                    "name": "女款羽绒服",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款连帽羽绒服",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "摇粒绒系列",
+                            "children": [
+                                {
+                                    "name": "女款摇粒绒卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款摇粒绒连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "裤装",
+                    "children": [
+                        {
+                            "name": "牛仔裤",
+                            "children": [
+                                {
+                                    "name": "女款牛仔裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款破洞牛仔裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "长裤",
+                            "children": [
+                                {
+                                    "name": "女款长裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款针破洞长裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "九分裤·七分裤",
+                            "children": [
+                                {
+                                    "name": "女款九分裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款七分裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "紧身裤",
+                            "children": [
+                                {
+                                    "name": "女款紧身裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款破洞紧身裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "短裤",
+                            "children": [
+                                {
+                                    "name": "女款短裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款破洞短裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "裙装",
+                    "children": [
+                        {
+                            "name": "连衣裙",
+                            "children": [
+                                {
+                                    "name": "女款卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "半身裙",
+                            "children": [
+                                {
+                                    "name": "女款针织衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款针织连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "裙裤",
+                            "children": [
+                                {
+                                    "name": "女款防晒卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款防晒连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "衬衫&T恤",
+                    "children": [
+                        {
+                            "name": "法兰绒系列",
+                            "children": [
+                                {
+                                    "name": "女款卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "衬衫",
+                            "children": [
+                                {
+                                    "name": "女款针织衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款针织连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "T恤",
+                            "children": [
+                                {
+                                    "name": "女款防晒卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款防晒连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "UT系列",
+                            "children": [
+                                {
+                                    "name": "女款防晒卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款防晒连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "运动衫&运动裤",
+                    "children": [
+                        {
+                            "name": "运动衫",
+                            "children": [
+                                {
+                                    "name": "女款针织衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款针织连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "运动裤",
+                            "children": [
+                                {
+                                    "name": "女款防晒卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款防晒连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "生活运动系列",
+                            "children": [
+                                {
+                                    "name": "女款防晒卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款防晒连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "孕妇装&亲子装",
+                    "children": [
+                        {
+                            "name": "孕妇装",
+                            "children": [
+                                {
+                                    "name": "孕妇装",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "孕妇装3件套",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "亲子装",
+                            "children": [
+                                {
+                                    "name": "亲子装",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "亲子装3件套",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "内衣&内裤&袜子",
+                    "children": [
+                        {
+                            "name": "舒美衣BRA",
+                            "children": [
+                                {
+                                    "name": "女款BRA",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款内衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "AIRism系列",
+                            "children": [
+                                {
+                                    "name": "女款自热内衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款自热内裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HEATTECH系列",
+                            "children": [
+                                {
+                                    "name": "女款轻薄卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款轻薄帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "塑身系列",
+                            "children": [
+                                {
+                                    "name": "女款塑身卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款塑身连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "家居系列&配件",
+                    "children": [
+                        {
+                            "name": "起居系列",
+                            "children": [
+                                {
+                                    "name": "女款睡衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款睡裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "配件",
+                            "children": [
+                                {
+                                    "name": "女款配件",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "皮带",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "泳装",
+                            "children": [
+                                {
+                                    "name": "女款泳装",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女款防晒泳装",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "床上用品",
+                            "children": [
+                                {
+                                    "name": "枕套",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "被套",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "男装",
+            "children": [
+                {
+                    "name": "外套&针织衫",
+                    "children": [
+                        {
+                            "name": "外套",
+                            "children": [
+                                {
+                                    "name": "男款卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "针织衫",
+                            "children": [
+                                {
+                                    "name": "男款针织衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款针织连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "防晒系列",
+                            "children": [
+                                {
+                                    "name": "男款防晒卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款防晒连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "羽绒服",
+                            "children": [
+                                {
+                                    "name": "男款羽绒服",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款连帽羽绒服",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "摇粒绒系列",
+                            "children": [
+                                {
+                                    "name": "男款摇粒绒卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款摇粒绒连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "裤装",
+                    "children": [
+                        {
+                            "name": "牛仔裤",
+                            "children": [
+                                {
+                                    "name": "男款牛仔裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款破洞牛仔裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "长裤",
+                            "children": [
+                                {
+                                    "name": "男款长裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款针破洞长裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "九分裤·七分裤",
+                            "children": [
+                                {
+                                    "name": "男款九分裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款七分裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "紧身裤",
+                            "children": [
+                                {
+                                    "name": "男款紧身裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款破洞紧身裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "短裤",
+                            "children": [
+                                {
+                                    "name": "男款短裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款破洞短裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "衬衫",
+                    "children": [
+                        {
+                            "name": "休闲衬衫",
+                            "children": [
+                                {
+                                    "name": "男款衬衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "商务衬衫",
+                            "children": [
+                                {
+                                    "name": "男款商务衬衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款白衬衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "牛津纺衬衫",
+                            "children": [
+                                {
+                                    "name": "男款牛津纺衬衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "黑色男款衬衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "衬衫&T恤",
+                    "children": [
+                        {
+                            "name": "UT系列",
+                            "children": [
+                                {
+                                    "name": "高达联名系列",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "EVA联名系列",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "POLO衫",
+                            "children": [
+                                {
+                                    "name": "男款POLO衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款网球服",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "T恤",
+                            "children": [
+                                {
+                                    "name": "男款防晒卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款防晒连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "运动T恤",
+                            "children": [
+                                {
+                                    "name": "防晒卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "运动衫&运动裤",
+                    "children": [
+                        {
+                            "name": "运动衫",
+                            "children": [
+                                {
+                                    "name": "男款运动衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款运动裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "运动短裤",
+                            "children": [
+                                {
+                                    "name": "男款短裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款运动裤袜",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "生活运动系列",
+                            "children": [
+                                {
+                                    "name": "男款防晒卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款防晒连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "亲子装",
+                    "children": [
+                        {
+                            "name": "亲子装",
+                            "children": [
+                                {
+                                    "name": "亲子装",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "亲子装3件套",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "内衣&内裤&袜子",
+                    "children": [
+                        {
+                            "name": "内衣",
+                            "children": [
+                                {
+                                    "name": "男款内衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款短裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "AIRism系列",
+                            "children": [
+                                {
+                                    "name": "男款自热内衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款自热内裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HEATTECH系列",
+                            "children": [
+                                {
+                                    "name": "男款轻薄卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款轻薄帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "塑身系列",
+                            "children": [
+                                {
+                                    "name": "男款塑身卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款塑身连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "家居系列&配件",
+                    "children": [
+                        {
+                            "name": "起居系列",
+                            "children": [
+                                {
+                                    "name": "男款睡衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款睡裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "配件",
+                            "children": [
+                                {
+                                    "name": "男款配件",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "皮带",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "泳装",
+                            "children": [
+                                {
+                                    "name": "男款泳装",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男款防晒泳装",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "床上用品",
+                            "children": [
+                                {
+                                    "name": "枕套",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "被套",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "童装",
+            "children": [
+                {
+                    "name": "童装外套",
+                    "children": [
+                        {
+                            "name": "人气推荐",
+                            "children": [
+                                {
+                                    "name": "男童卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男童连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "风衣·茄克",
+                            "children": [
+                                {
+                                    "name": "男童风衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男童夹克",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "开衫",
+                            "children": [
+                                {
+                                    "name": "男童开衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男童连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "羽绒服",
+                            "children": [
+                                {
+                                    "name": "男童羽绒服",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男童连帽羽绒服",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "摇粒绒系列",
+                            "children": [
+                                {
+                                    "name": "男童摇粒绒卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男童摇粒绒连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "童装裤装",
+                    "children": [
+                        {
+                            "name": "牛仔裤",
+                            "children": [
+                                {
+                                    "name": "男童牛仔裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男童破洞牛仔裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "长裤",
+                            "children": [
+                                {
+                                    "name": "男童长裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男童破洞长裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "九分裤·七分裤",
+                            "children": [
+                                {
+                                    "name": "男童·九分裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男童七分裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "紧身裤",
+                            "children": [
+                                {
+                                    "name": "男童紧身裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男童破洞紧身裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "短裤",
+                            "children": [
+                                {
+                                    "name": "男童短裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男童破洞短裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "女童衬衫",
+                    "children": [
+                        {
+                            "name": "休闲衬衫",
+                            "children": [
+                                {
+                                    "name": "女童衬衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "女童连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "儿童衬衫",
+                            "children": [
+                                {
+                                    "name": "儿童衬衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "儿童白衬衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "牛津纺衬衫",
+                            "children": [
+                                {
+                                    "name": "儿童牛津纺衬衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "黑色儿童衬衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "衬衫&T恤",
+                    "children": [
+                        {
+                            "name": "UT系列",
+                            "children": [
+                                {
+                                    "name": "高达联名系列",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "EVA联名系列",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "POLO衫",
+                            "children": [
+                                {
+                                    "name": "男童POLO衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男童网球服",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "T恤",
+                            "children": [
+                                {
+                                    "name": "男童防晒卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男童防晒连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "运动T恤",
+                            "children": [
+                                {
+                                    "name": "防晒卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "运动衫&运动裤",
+                    "children": [
+                        {
+                            "name": "运动衫",
+                            "children": [
+                                {
+                                    "name": "男童运动衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男童运动裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "运动短裤",
+                            "children": [
+                                {
+                                    "name": "男童短裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男童运动裤袜",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "生活运动系列",
+                            "children": [
+                                {
+                                    "name": "男童防晒卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "男童防晒连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "亲子装",
+                    "children": [
+                        {
+                            "name": "亲子装",
+                            "children": [
+                                {
+                                    "name": "亲子装",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "亲子装3件套",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "内衣&内裤&袜子",
+                    "children": [
+                        {
+                            "name": "内衣",
+                            "children": [
+                                {
+                                    "name": "儿童内衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "儿童短裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "AIRism系列",
+                            "children": [
+                                {
+                                    "name": "儿童自热内衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "儿童自热内裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "HEATTECH系列",
+                            "children": [
+                                {
+                                    "name": "儿童轻薄卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "儿童轻薄帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "塑身系列",
+                            "children": [
+                                {
+                                    "name": "儿童塑身卫衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "儿童塑身连帽衫",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "家居系列&配件",
+                    "children": [
+                        {
+                            "name": "起居系列",
+                            "children": [
+                                {
+                                    "name": "儿童睡衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "儿童睡裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "配件",
+                            "children": [
+                                {
+                                    "name": "儿童配件",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "皮带",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "泳装",
+                            "children": [
+                                {
+                                    "name": "儿童泳装",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "儿童防晒泳装",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "床上用品",
+                            "children": [
+                                {
+                                    "name": "枕套",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "被套",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "婴幼儿装",
+            "children": [
+                {
+                    "name": "新生儿（50-60cm·建议0-3个月）",
+                    "children": [
+                        {
+                            "name": "人气推荐",
+                            "children": [
+                                {
+                                    "name": "新生儿短袖",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "新生儿短裤",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }                            
+                            ]
+                        },
+                        {
+                            "name": "长袖连体装",
+                            "children": [
+                                {
+                                    "name": "黑色长袖连体装",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "红色长袖连体装",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "和尚服/蝴蝶衣",
+                            "children": [
+                                {
+                                    "name": "和尚服",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "蝴蝶衣",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "短袖连体装",
+                            "children": [
+                                {
+                                    "name": "红色短袖连体装",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "黑色短袖连体装",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        },
+                        {
+                            "name": "网眼连体装",
+                            "children": [
+                                {
+                                    "name": "黑色网眼连体装",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 92.0,
+                                    "market_price": 558.0,
+                                    "on_sale": true
+                                },
+                                {
+                                    "name": "红色网眼连体装",
+                                    "intro": "这是简介",
+                                    "photo": "这是图片",
+                                    "price": 82.0,
+                                    "market_price": 128.0,
+                                    "on_sale": true
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "新生儿（60-90cm·3个月~2岁）",
+                    "children": [
+                        {
+                            "name": "上装",
+                            "children": [
+                                {
+                                    "name": "人气推荐",
+                                    "children": [
+                                        {
+                                            "name": "蓝色长袖连体装",
+                                            "intro": "这是简介",
+                                            "photo": "这是图片",
+                                            "price": 92.0,
+                                            "market_price": 558.0,
+                                            "on_sale": true
+                                        },
+                                        {
+                                            "name": "红色长袖连体装",
+                                            "intro": "这是简介",
+                                            "photo": "这是图片",
+                                            "price": 82.0,
+                                            "market_price": 128.0,
+                                            "on_sale": true
+                                        }
+                                    ]
+                                }
+                                
+                            ]
+                        },
+                        {
+                            "name": "下装",
+                            "children": [
+                                {
+                                    "name": "人气推荐",
+                                    "children": [
+                                        {
+                                            "name": "蓝色长袖连体装",
+                                            "intro": "这是简介",
+                                            "photo": "这是图片",
+                                            "price": 92.0,
+                                            "market_price": 558.0,
+                                            "on_sale": true
+                                        },
+                                        {
+                                            "name": "红色长袖连体装",
+                                            "intro": "这是简介",
+                                            "photo": "这是图片",
+                                            "price": 82.0,
+                                            "market_price": 128.0,
+                                            "on_sale": true
+                                        }
+                                    ]
+                                }
+                                
+                            ]
+                        },
+                        {
+                            "name": "家居系列&配件",
+                            "children": [
+                                {
+                                    "name": "家居系列",
+                                    "children": [
+                                        {
+                                            "name": "新生儿睡衣",
+                                            "intro": "这是简介",
+                                            "photo": "这是图片",
+                                            "price": 92.0,
+                                            "market_price": 558.0,
+                                            "on_sale": true
+                                        },
+                                        {
+                                            "name": "新生儿睡裤",
+                                            "intro": "这是简介",
+                                            "photo": "这是图片",
+                                            "price": 82.0,
+                                            "market_price": 128.0,
+                                            "on_sale": true
+                                        }
+                                    ]
+                                }
+                                
+                            ]
+                        }
+
+                    ]
+                },
+                {
+                    "name": "幼儿（70-110cm·6个月~5岁）",
+                    "children": [
+                        {
+                            "name": "上装",
+                            "children": [
+                                {
+                                    "name": "人气推荐",
+                                    "children": [
+                                        {
+                                            "name": "幼儿长袖连体装",
+                                            "intro": "这是简介",
+                                            "photo": "这是图片",
+                                            "price": 92.0,
+                                            "market_price": 558.0,
+                                            "on_sale": true
+                                        },
+                                        {
+                                            "name": "幼儿上装",
+                                            "intro": "这是简介",
+                                            "photo": "这是图片",
+                                            "price": 82.0,
+                                            "market_price": 128.0,
+                                            "on_sale": true
+                                        }
+                                    ]
+                                }
+                                
+                            ]
+                        },
+                        {
+                            "name": "下装",
+                            "children": [
+                                {
+                                    "name": "人气推荐",
+                                    "children": [
+                                        {
+                                            "name": "十分紧身裤",
+                                            "intro": "这是简介",
+                                            "photo": "这是图片",
+                                            "price": 92.0,
+                                            "market_price": 558.0,
+                                            "on_sale": true
+                                        },
+                                        {
+                                            "name": "七分紧身裤",
+                                            "intro": "这是简介",
+                                            "photo": "这是图片",
+                                            "price": 82.0,
+                                            "market_price": 128.0,
+                                            "on_sale": true
+                                        }
+                                    ]
+                                }
+                                
+                            ]
+                        },
+                        {
+                            "name": "家居系列&配件",
+                            "children": [
+                                {
+                                    "name": "家居系列",
+                                    "children": [
+                                        {
+                                            "name": "幼儿睡衣",
+                                            "intro": "这是简介",
+                                            "photo": "这是图片",
+                                            "price": 92.0,
+                                            "market_price": 558.0,
+                                            "on_sale": true
+                                        },
+                                        {
+                                            "name": "幼儿睡裤",
+                                            "intro": "这是简介",
+                                            "photo": "这是图片",
+                                            "price": 82.0,
+                                            "market_price": 128.0,
+                                            "on_sale": true
+                                        }
+                                    ]
+                                }
+                                
+                            ]
+                        }
+
+                    ]
+                }
+            ]
+        }
+    ]
+}
